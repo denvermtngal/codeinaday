@@ -1,0 +1,24 @@
+h3{
+	background-color: orange;
+	height: 50px;
+	text-align: center;
+	padding: 20px;
+	margin-top: 20px;
+}
+p{background-color: #94c6a1}
+
+#mainParagraph 
+	{background-color: blue}
+	a:link { text-decoration: none;}
+
+#main 
+	{background-color: green;
+	height: 100px;
+	width: 50%;
+	float: left;}
+
+#main2
+	{background-color: #ff8763;
+	height: 100px;
+	width: 50%;
+	float: right;}
